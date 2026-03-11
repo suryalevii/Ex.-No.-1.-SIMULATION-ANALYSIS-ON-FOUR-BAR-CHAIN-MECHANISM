@@ -53,8 +53,8 @@
 
 
 ## Output:
- <img width="1920" height="1080" alt="Screenshot 2026-03-11 152230" src="https://github.com/user-attachments/assets/6538837d-f519-465d-8a55-abe715431cf3" />
- <img width="1920" height="1080" alt="Screenshot 2026-03-11 152239" src="https://github.com/user-attachments/assets/f4b55425-59fb-423f-b5f8-e5769f55a138" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-11 153308" src="https://github.com/user-attachments/assets/897dd0d8-58e6-44fc-ba00-6a03c55b8b2d" />
+ <img width="1920" height="1080" alt="Screenshot 2026-03-11 153316" src="https://github.com/user-attachments/assets/77bf4218-7c44-451b-94eb-cbe7ef317b2f" />
 
 
 ### Name:Surya.N
